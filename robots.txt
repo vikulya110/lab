@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://vikulya110.github.io/lab1/sitemap.xml
